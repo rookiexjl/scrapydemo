@@ -1,0 +1,29 @@
+w.auto.qq.com/car_serial/1630/	马自达	一汽马自达	马自达CX-4
+w.auto.qq.com/car_serial/1117/	马自达	一汽马自达	CX-7
+w.auto.qq.com/car_serial/205/	马自达	一汽马自达	马自达6
+w.auto.qq.com/car_serial/1194/	马自达	一汽马自达	马自达6 ATENZA阿特兹
+w.auto.qq.com/car_serial/801/	马自达	一汽马自达	马自达8
+w.auto.qq.com/car_serial/503/	马自达	一汽马自达	睿翼
+car.m.yiche.com/hainanmazida323/	一汽海马		海南马自达323
+a.xcar.com.cn/1485/	一汽马自达		睿翼轿跑
+a.xcar.com.cn/1160/	一汽马自达		马自达8
+a.xcar.com.cn/1891/	一汽马自达		马自达CX-7
+a.xcar.com.cn/538/	一汽马自达		睿翼
+a.xcar.com.cn/3141/	一汽马自达		马自达CX-4
+a.xcar.com.cn/132/	一汽马自达		马自达6
+a.xcar.com.cn/2523/	一汽马自达		阿特兹
+car.m.yiche.com/mazda6wagon/	一汽马自达		马自达6 Wagon
+car.m.yiche.com/mazida6jiaopaoche/	一汽马自达		马自达6轿跑车
+car.m.yiche.com/ruiyi-2566/	一汽马自达		睿翼
+car.m.yiche.com/mazida8/	一汽马自达		马自达8
+car.m.yiche.com/ruiyijiaopao/	一汽马自达		睿翼轿跑
+car.m.yiche.com/mazidacx7/	一汽马自达		马自达CX-7
+car.m.yiche.com/mazidacx4/	一汽马自达		马自达CX-4
+car.m.yiche.com/mazda6jiaoche/	一汽马自达		马自达6
+car.m.yiche.com/atenza-4065/	一汽马自达		阿特兹
+m.autohome.com.cn/2118/	一汽马自达-		马自达8
+m.autohome.com.cn/3066/	一汽马自达-		马自达CX-7
+m.autohome.com.cn/22/	一汽马自达-		马自达6
+m.autohome.com.cn/3968/	一汽马自达-		马自达CX-4
+m.autohome.com.cn/3154/	一汽马自达-		阿特兹
+m.autohome.com.cn/655/	一汽马自达-		睿翼

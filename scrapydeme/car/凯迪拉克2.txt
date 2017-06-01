@@ -1,0 +1,79 @@
+w.auto.qq.com/car_serial/924/	凯迪拉克	进口凯迪拉克	凯迪拉克ATS(进口)
+w.auto.qq.com/car_serial/1576/	凯迪拉克	进口凯迪拉克	凯迪拉克CT6
+w.auto.qq.com/car_serial/293/	凯迪拉克	进口凯迪拉克	凯迪拉克CTS
+w.auto.qq.com/car_serial/294/	凯迪拉克	进口凯迪拉克	凯迪拉克SRX
+w.auto.qq.com/car_serial/296/	凯迪拉克	进口凯迪拉克	凯迪拉克XLR
+w.auto.qq.com/car_serial/297/	凯迪拉克	进口凯迪拉克	帝威
+w.auto.qq.com/car_serial/298/	凯迪拉克	进口凯迪拉克	凯雷德
+w.auto.qq.com/car_serial/1631/	凯迪拉克	上汽通用凯迪拉克	凯迪拉克XT5
+w.auto.qq.com/car_serial/176/	凯迪拉克	上汽通用凯迪拉克	SLS赛威
+w.auto.qq.com/car_serial/1229/	凯迪拉克	上汽通用凯迪拉克	凯迪拉克ATS-L
+w.auto.qq.com/car_serial/1448/	凯迪拉克	上汽通用凯迪拉克	凯迪拉克CT6
+w.auto.qq.com/car_serial/998/	凯迪拉克	上汽通用凯迪拉克	凯迪拉克XTS
+car.m.yiche.com/kaidilakedts/	凯迪拉克		凯迪拉克DTS(进口)
+car.m.yiche.com/kaidilakediwei/	凯迪拉克		帝威
+car.m.yiche.com/saiwei/	凯迪拉克		赛威(进口)
+car.m.yiche.com/kaidilakexlr/	凯迪拉克		凯迪拉克XLR(进口)
+car.m.yiche.com/kaileidewaijiaoguan/	凯迪拉克		凯雷德外交官(进口)
+car.m.yiche.com/kaidilakejiachangban/	凯迪拉克		凯迪拉克加长版
+car.m.yiche.com/kaidilakects/	凯迪拉克		凯迪拉克CTS(进口)
+car.m.yiche.com/kaidilakeats/	凯迪拉克		凯迪拉克ATS
+car.m.yiche.com/kaidilakectsv/	凯迪拉克		凯迪拉克CTS-V(进口)
+car.m.yiche.com/ctsshuangmenjiaopaoche/	凯迪拉克		凯迪拉克CTS COUPE
+car.m.yiche.com/kaileidehybird/	凯迪拉克		凯雷德 Hybrid
+car.m.yiche.com/kaidilakekaileide/	凯迪拉克		凯雷德
+car.m.yiche.com/kaidilakesrx/	凯迪拉克		凯迪拉克SRX(进口)
+a.xcar.com.cn/1401/	凯迪拉克(进口)		凯迪拉克ATS
+a.xcar.com.cn/378/	凯迪拉克(进口)		凯雷德
+a.xcar.com.cn/380/	凯迪拉克(进口)		凯迪拉克SRX
+a.xcar.com.cn/2542/	凯迪拉克(进口)		凯雷德混合动力
+a.xcar.com.cn/1482/	凯迪拉克(进口)		凯迪拉克CTS双门
+a.xcar.com.cn/381/	凯迪拉克(进口)		凯迪拉克CTS(进口)
+m.autohome.com.cn/752/	凯迪拉克(进口)-		凯迪拉克ELR
+m.autohome.com.cn/3647/	凯迪拉克(进口)-		凯迪拉克XT5(海外)
+m.autohome.com.cn/4185/	凯迪拉克(进口)-		Escala
+m.autohome.com.cn/3190/	凯迪拉克(进口)-		Elmiraj
+m.autohome.com.cn/2087/	凯迪拉克(进口)-		凯迪拉克XTS(海外)
+m.autohome.com.cn/311/	凯迪拉克(进口)-		凯迪拉克CTS(进口)
+m.autohome.com.cn/2401/	凯迪拉克(进口)-		Ciel
+m.autohome.com.cn/462/	凯迪拉克(进口)-		凯雷德ESCALADE
+m.autohome.com.cn/3359/	凯迪拉克(进口)-		凯迪拉克CT6(海外)
+m.autohome.com.cn/2629/	凯迪拉克(进口)-		凯迪拉克ATS(进口)
+m.autohome.com.cn/3421/	凯迪拉克(进口)-Brougham		Brougham
+m.autohome.com.cn/238/	凯迪拉克(进口)-DeVille		DeVille
+m.autohome.com.cn/3169/	凯迪拉克(进口)-Seville		Seville
+m.autohome.com.cn/3355/	凯迪拉克(进口)-弗雷特伍德		弗雷特伍德
+m.autohome.com.cn/637/	凯迪拉克(进口)-凯迪拉克BLS		凯迪拉克BLS
+m.autohome.com.cn/2036/	凯迪拉克(进口)-凯迪拉克SLS(海外)		凯迪拉克SLS(海外)
+m.autohome.com.cn/49/	凯迪拉克(进口)-凯迪拉克SRX		凯迪拉克SRX
+m.autohome.com.cn/402/	凯迪拉克(进口)-凯迪拉克STS		凯迪拉克STS
+m.autohome.com.cn/426/	凯迪拉克(进口)-凯迪拉克XLR		凯迪拉克XLR
+car.m.yiche.com/kaidilakezongtongyihaobojueban/	山姆		凯迪拉克总统一号(进口)
+a.xcar.com.cn/909/	上汽通用凯迪拉克		SLS赛威
+a.xcar.com.cn/1771/	上汽通用凯迪拉克		凯迪拉克XTS
+a.xcar.com.cn/3211/	上汽通用凯迪拉克		凯迪拉克XT5
+a.xcar.com.cn/3360/	上汽通用凯迪拉克		凯迪拉克CT6 PHEV
+a.xcar.com.cn/2644/	上汽通用凯迪拉克		凯迪拉克ATS-L
+a.xcar.com.cn/3028/	上汽通用凯迪拉克		凯迪拉克CT6
+car.m.yiche.com/xts/	上汽通用凯迪拉克		凯迪拉克XTS
+car.m.yiche.com/kaidilakect6/	上汽通用凯迪拉克		凯迪拉克CT6
+car.m.yiche.com/kaidilakext5/	上汽通用凯迪拉克		凯迪拉克XT5
+car.m.yiche.com/kaidilakeatsl/	上汽通用凯迪拉克		凯迪拉克ATS-L
+car.m.yiche.com/slssaiwei/	上汽通用凯迪拉克		赛威
+m.autohome.com.cn/3989/	上汽通用凯迪拉克-		凯迪拉克XT5
+m.autohome.com.cn/3802/	上汽通用凯迪拉克-		凯迪拉克CT6
+m.autohome.com.cn/3207/	上汽通用凯迪拉克-		凯迪拉克ATS-L
+m.autohome.com.cn/2949/	上汽通用凯迪拉克-		凯迪拉克XTS
+m.autohome.com.cn/488/	上汽通用凯迪拉克-SLS赛威		SLS赛威
+m.autohome.com.cn/970/	上汽通用凯迪拉克-凯迪拉克CTS		凯迪拉克CTS
+auto.3g.163.com/cadillac/2126/			凯迪拉克XLR
+auto.3g.163.com/cadillac/2125/			凯迪拉克SRX(进口)
+auto.3g.163.com/cadillac/16370/			凯迪拉克CTS-V
+auto.3g.163.com/cadillac/16141/			凯迪拉克ATS(进口)
+auto.3g.163.com/cadillac/18469/			凯迪拉克XT5
+auto.3g.163.com/cadillac/2139/			凯迪拉克SLS赛威
+auto.3g.163.com/cadillac/18291/			凯迪拉克CT6
+auto.3g.163.com/cadillac/2473/			凯迪拉克CTS
+auto.3g.163.com/cadillac/2124/			凯迪拉克CTS(进口)
+auto.3g.163.com/cadillac/16786/			凯迪拉克ATS-L
+auto.3g.163.com/cadillac/16851/			凯迪拉克XTS

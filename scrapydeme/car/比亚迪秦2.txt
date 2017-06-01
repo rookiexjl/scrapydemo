@@ -1,0 +1,7 @@
+w.auto.qq.com/car_serial/1110/	比亚迪	比亚迪	秦
+car.m.yiche.com/qinev300/	比亚迪		秦EV300
+car.m.yiche.com/qin/	比亚迪		秦
+m.autohome.com.cn/2761/	比亚迪-		秦
+a.xcar.com.cn/3206/	比亚迪汽车		秦EV
+a.xcar.com.cn/1514/	比亚迪汽车		秦
+a.xcar.com.cn/3244/	比亚迪汽车		秦100

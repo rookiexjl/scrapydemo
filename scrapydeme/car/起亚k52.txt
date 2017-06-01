@@ -1,0 +1,2 @@
+car.m.yiche.com/k5/	东风悦达起亚		起亚K5
+car.m.yiche.com/k5jinkou/	起亚		K5（进口）

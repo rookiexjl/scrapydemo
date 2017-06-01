@@ -1,0 +1,11 @@
+http://map.baidu.com/mobile/webapp/place/detail/&qt=ninf&uid=e0fa7b0da086e031266e9864&industry=hotel&from=wise_card_accurate&src_from=wise_card_accurate&third_party=wise_card_accurate/vt=map?bd_from_id=wise&bd_ref_id=light_null&bd_channel_id=light_null&bd_sub_page=wz_maphotel&bd_source_light=2013
+http://map.baidu.com/mobile/webapp/place/detail/&qt=ninf&uid=e0fa7b0da086e031266e9864&industry=hotel&from=wise_card_accurate&src_from=wise_card_accurate&third_party=wise_card_accurate&vmgdb=001001030004?bd_from_id=wise&bd_ref_id=light_null&bd_channel_id=light_null&bd_sub_page=wz_maphotel&bd_source_light=2013
+http://www.marriott.com/default.mi
+http://m.58.com/xiaoqu/mohaoguojisoho/ershoufang/
+http://m.58.com/xiaoqu/wanhaoguojiyizhierqi/ershoufang/
+http://image.baidu.com/search/wiseala?tn=wiseala&ie=utf8&word=%E4%B8%87%E8%B1%AA%E5%9B%BD%E9%99%85&needpersonalized=0&haspersonalized=0&fr=alawise&pos=3&stdstl=2&tp=weaken
+http://www.marriott.com.cn/rewards/rewards-program.mi
+http://stocks.sina.cn/us/?code=MAR&vt=1
+http://m.focus.cn/hz/loupan/131027/
+http://map.baidu.com/mobile/webapp/place/detail/&qt=ninf&uid=e0fa7b0da086e031266e9864&industry=hotel&from=wise_card_accurate&src_from=wise_card_accurate&third_party=wise_card_accurate&vmgdb=001001030001?vmgdb=001001030001&bd_from_id=wise&bd_ref_id=light_null&bd_channel_id=light_null&bd_sub_page=wz_maphotel&bd_source_light=2013
+http://www.marriott.com.cn/default.mi
