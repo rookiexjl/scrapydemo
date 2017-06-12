@@ -1,10 +1,5 @@
 # -*- coding:utf-8 -*-
 '''
-Function:handle database's any operation
-Author:Wan Shitao
-Email:wst.521@163.com
-Date:2014.8.20
-Reference:funcs.py
 '''
 from twisted.enterprise import adbapi
 import MySQLdb
