@@ -4,7 +4,7 @@ import socket
 import urllib2
 
 dbapi = "MySQLdb"
-kwargs = {'user': 'root', 'passwd': '123456', 'db': 'ippool', 'host': 'localhost', 'use_unicode': True}
+kwargs = {'user': 'root', 'passwd': '*****', 'db': 'ippool', 'host': 'localhost', 'use_unicode': True}
 
 
 def counter(start_at=0):
