@@ -91,5 +91,5 @@ DOWNLOADER_MIDDLEWARES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # database connection parameters
-DBKWARGS = {'db': 'ippool', 'user': 'root', 'passwd': '123456',
+DBKWARGS = {'db': 'ippool', 'user': 'root', 'passwd': '****',
             'host': 'localhost', 'use_unicode': True, 'charset': 'utf8'}
